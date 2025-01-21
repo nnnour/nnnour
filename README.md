@@ -24,14 +24,14 @@ I'm committed to learning, growing, and sharing knowledge to benefit the communi
 - **[Ween](https://github.com/nnnour/Ween)**  
   AI-powered restaurant recommendation app with a focus on backend data management and usability testing.  
 - **[Onsite Payments Website](https://github.com/nnnour/onsite-payments-website)**  
-  The official website for the Onsite Payments startup, featuring a responsive design, seamless user experience, secure backend integration using Getform.io, and professional deployment on GoDaddy.  
+  The official website for the Onsite Payments startup, featuring a responsive design, seamless user experience, secure backend integration, and professional deployment on GoDaddy.  
 
 ---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nnnour&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nnnour&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnour&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnour&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
