@@ -1,6 +1,6 @@
 # 🚀 Nour Elaifia  
 
-**`Computer Science and Business Double Major Student | Creative Developer and Aspiring Product Manager`**  
+**`Computer Science and Business Double Major Student | Software Engineer & Product Manager`**  
 
 I'm a developer and problem solver passionate about building user-centered solutions and seamless digital experiences. My journey combines technical proficiency with a keen interest in product strategy. I focus on crafting meaningful software projects and leveraging technology to solve real-world challenges.  
 
